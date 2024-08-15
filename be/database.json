@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "tuan",
+      "email": "tuan@gmail.com",
+      "password": "$2a$08$RS8zso4Rx0RgFJj15CkbB.DbCWziQUTJD68udqpqEAPufXta9sDvy",
+      "role": "user"
+    },
+    {
+      "username": "admin",
+      "email": "tuanadmin@gmail.com",
+      "password": "$2a$08$MvvmEz/qVcspq40bLD2uDOF794ZLh5.wUxAosNKT07vJINWSEEQzO",
+      "role": "admin"
+    },
+    {
+      "username": "tuancui",
+      "email": "tuan1@gmail.com",
+      "password": "$2a$08$bkpxe1HD2iTPN5tPL93ub.C7aDo06rNhfEuSEgp0P4biTtdhgUahW",
+      "role": "user"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "1723021406917",
+      "description": "dua xe ban sung",
+      "date": "2024-08-06",
+      "amount": "1000",
+      "user": "tuanadmin@gmail.com",
+      "category": "Vehicles"
+    },
+    {
+      "id": "1723021492076",
+      "description": "mua sung",
+      "date": "2024-08-07",
+      "amount": "2000",
+      "category": "Shopping",
+      "user": "tuanadmin@gmail.com"
+    }
+  ]
+}

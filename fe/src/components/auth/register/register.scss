@@ -1,0 +1,45 @@
+
+.gradient-custom-2 {
+    background: linear-gradient(45deg, #d5ad48, #95672a);
+    color: white;
+ }
+ 
+ @media (min-width: 768px) {
+     .gradient-form {
+     height: 100vh !important;
+     }
+     }
+     @media (min-width: 769px) {
+     .gradient-custom-2 {
+     border-top-right-radius: .3rem;
+     border-bottom-right-radius: .3rem;
+     }
+     }
+ 
+     .btn-login{
+         width: 390px;
+         height: 40px;
+        outline: none !important;
+     }
+ 
+     .btn-login {
+         transition: all 0.3s ease;
+       }
+       
+       .btn-login:hover {
+         opacity: 0.9;
+         color: #fff !important;
+       }
+       
+       .btn-login:active {
+         background-color: #d5ad48; 
+         color: #fff; 
+         transform: scale(0.98); 
+       }
+     
+ 
+ 
+ 
+ 
+ 
+ 
